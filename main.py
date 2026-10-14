@@ -210,4 +210,141 @@ MBTI_POKEMON_DATA = {
         "eng_name": "Alakazam",
         "type": "에스퍼 🧠",
         "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
-        "feature": "IQ 5000에 달하는 경이로운 두뇌로 세상의 모든 현상을 분석하고 기억하는 지혜로운 포켓몬입니다
+        "feature": "IQ 5000에 달하는 경이로운 두뇌로 세상의 모든 현상을 분석하고 기억하는 지혜로운 포켓몬입니다.",
+        "reason": "지적 호기심과 분석적 사고를 즐기는 INTP와 함께 밤새 깊은 사색과 흥미로운 이론을 탐구할 최고의 지적 동반자입니다."
+    },
+    "INTJ": {
+        "kor_name": "뮤츠",
+        "eng_name": "Mewtwo",
+        "type": "에스퍼 🌀",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+        "feature": "극한의 집중력과 압도적인 힘을 가졌으며, 감정에 휘둘리지 않고 본질을 꿰뚫어 봅니다.",
+        "reason": "철저한 전략과 독립적인 사고로 미래를 설계하는 INTJ의 냉철한 이성과 강한 의지를 온전히 이해합니다."
+    },
+    "ESFP": {
+        "kor_name": "피카츄",
+        "eng_name": "Pikachu",
+        "type": "전기 ⚡",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "feature": "빨간 볼에서 전기를 뿜어내며 언제 어디서나 분위기를 밝고 활기차게 만드는 슈퍼스타입니다.",
+        "reason": "존재 자체만으로 파티의 중심이 되고 긍정 에너지를 전파하는 ESFP의 반짝이는 매력과 완벽한 싱크로율을 자랑합니다."
+    },
+    "ESFJ": {
+        "kor_name": "해피너스",
+        "eng_name": "Blissey",
+        "type": "노말 🥚",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+        "feature": "행복이 듬뿍 담긴 알을 나누어주며, 슬퍼하거나 아픈 포켓몬을 지극정성으로 보살핍니다.",
+        "reason": "주변 사람들을 살뜰히 챙기고 다정다감하게 공동체를 돌보는 ESFJ의 따뜻한 모성애와 꼭 닮았습니다."
+    },
+    "ESTP": {
+        "kor_name": "리자몽",
+        "eng_name": "Charizard",
+        "type": "불꽃 🔥 / 비행 🐉",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+        "feature": "강한 상대를 만나면 꼬리의 불꽃이 더욱 뜨겁게 타오르는 승부욕과 용기의 상징입니다.",
+        "reason": "스릴 넘치는 도전을 즐기고 뛰어난 순발력으로 현실의 위기를 돌파하는 ESTP의 와일드한 에너지와 가장 잘 어울립니다."
+    },
+    "ESTJ": {
+        "kor_name": "윈디",
+        "eng_name": "Arcanine",
+        "type": "불꽃 🦁",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+        "feature": "위풍당당한 자태와 깊은 충성심을 지녔으며, 흔들림 없는 규율과 용기로 주인을 지킵니다.",
+        "reason": "강한 책임감과 체계적인 실행력으로 조직을 질서정연하게 이끄는 ESTJ의 듬직하고 믿음직한 페이스메이커입니다."
+    },
+    "ISFP": {
+        "kor_name": "푸린",
+        "eng_name": "Jigglypuff",
+        "type": "노말 🎵 / 페어리 💖",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+        "feature": "자신만의 고유한 멜로디로 노래를 부르며 평화롭고 나른한 분위기를 만드는 아티스트 포켓몬입니다.",
+        "reason": "여유로운 삶의 아름다움을 음미하고 따뜻한 예술적 감성을 품은 ISFP에게 더없이 사랑스러운 짝꿍입니다."
+    },
+    "ISFJ": {
+        "kor_name": "이상해씨",
+        "eng_name": "Bulbasaur",
+        "type": "풀 🌱 / 독 🌿",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+        "feature": "등의 씨앗에 영양분을 차곡차곡 모으며 언제나 묵묵하고 충직하게 주인의 곁을 지킵니다.",
+        "reason": "보이지 않는 곳에서도 헌신하며 한결같은 온기로 사람들을 지켜주는 ISFJ의 든든한 성품을 닮았습니다."
+    },
+    "ISTP": {
+        "kor_name": "개굴닌자",
+        "eng_name": "Greninja",
+        "type": "물 💧 / 악 🥷",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+        "feature": "물로 만든 수리검을 능숙하게 다루며, 소리 없이 신속하고 정확하게 기술을 구사합니다.",
+        "reason": "말보다 행동이 앞서며 뛰어난 도구 활용과 날카로운 관찰력을 가진 쿨한 실전파 ISTP와 환상의 호흡을 자랑합니다."
+    },
+    "ISTJ": {
+        "kor_name": "거북왕",
+        "eng_name": "Blastoise",
+        "type": "물 🌊",
+        "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+        "feature": "단단한 등껍질로 어떤 충격도 막아내며, 정확한 조준포로 목표를 빈틈없이 완수합니다.",
+        "reason": "원칙을 지키며 신중하고 흔들림 없이 책임을 다하는 ISTJ에게 최고의 신뢰와 안정감을 선사합니다."
+    }
+}
+
+# 4. 상단 헤더 영역
+st.markdown("""
+<div class="main-header">
+    <h1>⚡ 나의 MBTI 단짝 포켓몬 ⚡</h1>
+    <p>나의 성격 유형과 가장 잘 통하는 소울메이트 포켓몬을 만나보세요</p>
+</div>
+""", unsafe_allow_html=True)
+
+# 5. MBTI 선택 및 시작 버튼
+col1, col2 = st.columns([2, 1])
+
+with col1:
+    mbti_list = list(MBTI_POKEMON_DATA.keys())
+    selected_mbti = st.selectbox(
+        "🔮 MBTI 성격 유형을 선택하세요:",
+        mbti_list,
+        index=0
+    )
+
+with col2:
+    st.write("")  # 수직 정렬 여백
+    st.write("")
+    find_button = st.button("단짝 찾기 🔍")
+
+# 세션 상태로 이전 결과 유지
+if "selected" not in st.session_state:
+    st.session_state.selected = selected_mbti
+
+if find_button:
+    st.session_state.selected = selected_mbti
+    # 축하 풍선 효과
+    st.balloons()
+
+# 6. 결과 화면 렌더링
+target = MBTI_POKEMON_DATA[st.session_state.selected]
+
+st.markdown(f"""
+<div class="poke-card">
+    <div class="mbti-chip">✦ {st.session_state.selected} 유형의 단짝 ✦</div>
+    <div class="poke-name">{target['kor_name']}</div>
+    <div class="poke-en-name">({target['eng_name']})</div>
+    <div class="poke-img-wrap">
+        <img src="{target['img_url']}" width="230" alt="{target['kor_name']}">
+    </div>
+    <br>
+    <div class="type-badge">타입: {target['type']}</div>
+    
+    <div class="desc-box">
+        <div class="desc-title">🌟 포켓몬 특징</div>
+        <p class="desc-content">{target['feature']}</p>
+    </div>
+    
+    <div class="desc-box" style="border-left-color: #38BDF8;">
+        <div class="desc-title" style="color: #38BDF8;">🤝 단짝으로 어울리는 이유</div>
+        <p class="desc-content">{target['reason']}</p>
+    </div>
+</div>
+""", unsafe_allow_html=True)
+
+# 하단 텍스트
+st.markdown("<p style='text-align: center; color: #64748B; margin-top: 28px; font-size: 0.95rem;'>다른 유형이 궁금하다면 언제든 MBTI를 변경하고 다시 눌러보세요!</p>", unsafe_allow_html=True)
